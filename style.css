@@ -1,0 +1,10 @@
+
+body{
+  background: black url("fondo.png") top left no-repeat;
+  background-size: cover;
+  height: 80%;
+}
+footer{
+  background-color: white;
+  height: 20%;
+}
