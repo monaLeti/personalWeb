@@ -7,30 +7,27 @@
   padding-bottom: 15px;
 }
 .who{
-  padding-top: 50px;
-  padding-left: 350px;
+  padding-top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.descriptionWho{
+.center-block {
   font-family: "URW Chancery L";
   font-style: italic;
   font-size: 30px;
+  padding-top: 60px;
   color: #bdbdbd;
-  padding-top: 40px;
-  padding-left: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.who .img-responsive{
+  margin: 0 auto;
 }
 
-.firstBall{
-
-  padding-top: 70px;
-  padding-left: 300px;
-}
-.secondBall{
-
-  padding-top: 70px;
-
-}
-.thirdBall{
-  padding-top: 70px;
-
+.third  {
+  padding-top: 160px;
+  margin: 0 auto;
 }
