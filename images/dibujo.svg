@@ -19,14 +19,13 @@
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient5951">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop5953" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#000000;stop-opacity:0.21604939;"
          offset="1"
          id="stop5955" />
     </linearGradient>
@@ -43,16 +42,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3803"
-       x1="25.846905"
-       y1="362.99844"
-       x2="450.55579"
-       y2="362.99844"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-11.804642,1.967445)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5951"
        id="linearGradient5957"
        x1="333.96483"
@@ -60,6 +49,264 @@
        x2="676.25779"
        y2="571.32307"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951"
+       id="linearGradient3780"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(1157.8061,-5.2987425)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-8"
+       id="linearGradient5957-7"
+       x1="333.96484"
+       y1="571.32306"
+       x2="676.25781"
+       y2="571.32306"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5951-8">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5953-8" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop5955-0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(1157.8061,-5.2987425)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-8"
+       id="linearGradient3780-2"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3797-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3799-6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3801-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-8"
+       id="linearGradient3803"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3805">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3807" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3809" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1177.9741,6.9736938)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-9"
+       id="linearGradient5957-6"
+       x1="333.96484"
+       y1="571.32306"
+       x2="676.25781"
+       y2="571.32306"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5951-9">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5953-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop5955-07" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1177.9741,6.9736938)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-9"
+       id="linearGradient3780-5"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3090">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3092" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3094" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-9"
+       id="linearGradient3096"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3098">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3100" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3102" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1198.2617,906.14002)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2"
+       id="linearGradient5957-0"
+       x1="333.96484"
+       y1="571.32306"
+       x2="676.25781"
+       y2="571.32306"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5951-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5953-5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop5955-6" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1202.7586,892.64924)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2"
+       id="linearGradient3780-6"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3090-9">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3092-7" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3094-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2"
+       id="linearGradient3096-1"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3098-4">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3100-9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3102-2" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(281.98902,934.13134)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2-2"
+       id="linearGradient5957-0-2"
+       x1="333.96484"
+       y1="571.32306"
+       x2="676.25781"
+       y2="571.32306"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient5951-2-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5953-5-9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop5955-6-7" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(277.49212,920.64064)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2-2"
+       id="linearGradient3780-6-2"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3406">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3408" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3410" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-1202.7586,892.64924)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5951-2-2"
+       id="linearGradient3412"
+       x1="17.947515"
+       y1="364.9025"
+       x2="487.97876"
+       y2="364.9025"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3414">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3416" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.21604939;"
+         offset="1"
+         id="stop3418" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -68,9 +315,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50827465"
-     inkscape:cx="585.05701"
-     inkscape:cy="376.77309"
+     inkscape:zoom="0.22237403"
+     inkscape:cx="1220.9146"
+     inkscape:cy="-485.10273"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,7 +334,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -126,7 +373,7 @@
        y="306.32278" />
     <text
        xml:space="preserve"
-       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3803);fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3780);fill-opacity:1.0;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
        x="11.666265"
        y="388.76187"
        id="text3793"
@@ -138,23 +385,23 @@
          id="tspan3795"
          x="11.666265"
          y="388.76187"
-         style="fill:url(#linearGradient3803);fill-opacity:1">Leticia Trinidad</tspan></text>
+         style="fill:url(#linearGradient3780);fill-opacity:1.0;-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:64px">Leticia Trinidad</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:42.60005951000000124px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic;stroke-opacity:1"
-       x="1355.8925"
-       y="264.12408"
+       style="font-size:49.19138718px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="1126.4015"
+       y="304.99091"
        id="text3813"
        sodipodi:linespacing="125%"
-       transform="scale(0.6882006,1.4530647)"
+       transform="scale(0.79468299,1.2583634)"
        inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3815"
-         x="1355.8925"
-         y="264.12408"
-         style="stroke:#9d9d9d;stroke-opacity:1">Contact</tspan></text>
+         x="1126.4015"
+         y="304.99091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:Vemana2000;-inkscape-font-specification:Vemana2000">Contact</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
@@ -168,7 +415,8 @@
          sodipodi:role="line"
          id="tspan3821"
          x="380.56393"
-         y="551.09076">Who is ?</tspan></text>
+         y="551.09076"
+         style="-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Who is ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
@@ -179,19 +427,23 @@
          sodipodi:role="line"
          id="tspan3825"
          x="100.58959"
-         y="661.73932">I am a spanish telecommunication engineer. </tspan><tspan
+         y="661.73932"
+         style="-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px">I am a spanish telecommunication engineer. </tspan><tspan
          sodipodi:role="line"
          x="100.58959"
          y="701.73932"
-         id="tspan3827">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
+         id="tspan3827"
+         style="-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
          sodipodi:role="line"
          x="100.58959"
          y="741.73932"
-         id="tspan3829">I love travelling and my dream is to know all the world</tspan><tspan
+         id="tspan3829"
+         style="-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px">I love travelling and my dream is to know all the world</tspan><tspan
          sodipodi:role="line"
          x="100.58959"
          y="781.73932"
-         id="tspan3909">Why do not you know my personal world?</tspan><tspan
+         id="tspan3909"
+         style="-inkscape-font-specification:Vemana2000;font-family:Vemana2000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:24px">Why do not you know my personal world?</tspan><tspan
          sodipodi:role="line"
          x="100.58959"
          y="821.73932"
@@ -233,5 +485,573 @@
        height="5.853899"
        x="334.48904"
        y="568.39612" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0"
+       id="rect2985-5"
+       width="1054.5142"
+       height="140.82541"
+       x="1159.4827"
+       y="306.05353" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2985-7-0"
+       width="1054.5142"
+       height="130.76645"
+       x="1156.9679"
+       y="302.7005" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:0.52765958"
+       id="rect3789-0"
+       width="1050.8939"
+       height="117.35452"
+       x="1159.4827"
+       y="302.7005" />
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="rect3791-4"
+       width="1051.1611"
+       height="110.64854"
+       x="1157.8062"
+       y="301.02405" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3780-2);fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="1169.4724"
+       y="383.46313"
+       id="text3793-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/textHeader.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3795-0"
+         x="1169.4724"
+         y="383.46313"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3780-2);fill-opacity:1;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Leticia Trinidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:49.19138718px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="2583.3425"
+       y="300.78009"
+       id="text3813-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79468299,1.2583634)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3815-9"
+         x="2583.3425"
+         y="300.78009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#9d9d9d;stroke-width:1.15472579000000009;stroke-opacity:1;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="1538.37"
+       y="545.79199"
+       id="text3819-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-7"
+         x="1538.37"
+         y="545.79199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Who is ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="1258.3958"
+       y="656.44049"
+       id="text3823-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825-3"
+         x="1258.3958"
+         y="656.44049"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">I am a spanish telecommunication engineer. </tspan><tspan
+         sodipodi:role="line"
+         x="1258.3958"
+         y="695.01361"
+         id="tspan3827-5"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
+         sodipodi:role="line"
+         x="1258.3958"
+         y="733.58673"
+         id="tspan3829-6"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">I love travelling and my dream is to know all the world</tspan><tspan
+         sodipodi:role="line"
+         x="1258.3958"
+         y="763.58673"
+         id="tspan3909-3"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">Why do not you know my personal world?</tspan><tspan
+         sodipodi:role="line"
+         x="1258.3958"
+         y="802.15997"
+         id="tspan3831-6" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#80d8ff;fill-opacity:1"
+       id="path3841-32"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z"
+       transform="translate(1169.5416,298.77773)" />
+    <path
+       transform="translate(1336.4633,298.98113)"
+       sodipodi:type="arc"
+       style="fill:#80deea;fill-opacity:0.98297867"
+       id="path3841-4-2"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <path
+       transform="translate(1501.5895,299.41259)"
+       sodipodi:type="arc"
+       style="fill:#a7ffeb;fill-opacity:1"
+       id="path3841-3-2"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <rect
+       style="fill:url(#linearGradient5957-7);fill-opacity:1;stroke:#9d9d9d;stroke-width:1.04799998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.048, 12.576;stroke-dashoffset:0"
+       id="rect5949-8"
+       width="341.24454"
+       height="5.853899"
+       x="1492.2952"
+       y="563.09729" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0"
+       id="rect2985-3"
+       width="1054.5142"
+       height="140.82541"
+       x="-1176.2976"
+       y="318.32596" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2985-7-8"
+       width="1054.5142"
+       height="130.76645"
+       x="-1178.8124"
+       y="314.97293" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:0.52765958"
+       id="rect3789-3"
+       width="1050.8939"
+       height="117.35452"
+       x="-1176.2976"
+       y="314.97293" />
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="rect3791-9"
+       width="1051.1611"
+       height="110.64854"
+       x="-1177.9741"
+       y="313.29648" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3780-5);fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-1166.3079"
+       y="395.7355"
+       id="text3793-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/textHeader.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3795-8"
+         x="-1166.3079"
+         y="395.7355"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient3780-5);fill-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat">Leticia Trinidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:49.19138718px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-355.91812"
+       y="310.53275"
+       id="text3813-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79468299,1.2583634)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3815-3"
+         x="-355.91812"
+         y="310.53275"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;stroke:#9d9d9d;stroke-width:1.15472579000000009;stroke-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-797.41022"
+       y="558.06433"
+       id="text3819-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-3"
+         x="-797.41022"
+         y="558.06433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">Who is ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-1077.3845"
+       y="668.71289"
+       id="text3823-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825-7"
+         x="-1077.3845"
+         y="668.71289"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">I am a spanish telecommunication engineer. </tspan><tspan
+         sodipodi:role="line"
+         x="-1077.3845"
+         y="707.28601"
+         id="tspan3827-0"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
+         sodipodi:role="line"
+         x="-1077.3845"
+         y="745.85913"
+         id="tspan3829-2"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">I love travelling and my dream is to know all the world</tspan><tspan
+         sodipodi:role="line"
+         x="-1077.3845"
+         y="775.85913"
+         id="tspan3909-2"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat">Why do not you know my personal world?</tspan><tspan
+         sodipodi:role="line"
+         x="-1077.3845"
+         y="814.43237"
+         id="tspan3831-5" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#80d8ff;fill-opacity:1"
+       id="path3841-5"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z"
+       transform="translate(-1166.2387,311.05016)" />
+    <path
+       transform="translate(-999.31694,311.25356)"
+       sodipodi:type="arc"
+       style="fill:#80deea;fill-opacity:0.98297867"
+       id="path3841-4-5"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <path
+       transform="translate(-834.19084,311.68502)"
+       sodipodi:type="arc"
+       style="fill:#a7ffeb;fill-opacity:1"
+       id="path3841-3-6"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <rect
+       style="fill:url(#linearGradient5957-6);fill-opacity:1;stroke:#9d9d9d;stroke-width:1.04799998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.048, 12.576;stroke-dashoffset:0"
+       id="rect5949-0"
+       width="341.24454"
+       height="5.853899"
+       x="-843.48511"
+       y="575.36975" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0"
+       id="rect2985-73"
+       width="1054.5142"
+       height="140.82541"
+       x="-1196.5853"
+       y="1217.4923" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2985-7-5"
+       width="1054.5142"
+       height="130.76645"
+       x="-1199.1"
+       y="1214.1393" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:0.52765958"
+       id="rect3789-6"
+       width="1050.8939"
+       height="117.35452"
+       x="-1196.5853"
+       y="1214.1393" />
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="rect3791-5"
+       width="1051.1611"
+       height="110.64854"
+       x="-1198.2617"
+       y="1212.4628" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3780-6);fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-1191.0924"
+       y="1281.411"
+       id="text3793-25"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/textHeader.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3795-07"
+         x="-1191.0924"
+         y="1281.411"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:url(#linearGradient3780-6);fill-opacity:1;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Leticia Trinidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:49.19138718px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-381.44727"
+       y="1025.085"
+       id="text3813-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79468299,1.2583634)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3815-4"
+         x="-381.44727"
+         y="1025.085"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;stroke:#9d9d9d;stroke-width:1.15472579000000009;stroke-opacity:1;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-817.69781"
+       y="1457.2308"
+       id="text3819-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-72"
+         x="-817.69781"
+         y="1457.2308"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Who is ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-1097.6721"
+       y="1567.8794"
+       id="text3823-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825-0"
+         x="-1097.6721"
+         y="1567.8794"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I am a spanish telecommunication engineer. </tspan><tspan
+         sodipodi:role="line"
+         x="-1097.6721"
+         y="1606.4525"
+         id="tspan3827-3"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
+         sodipodi:role="line"
+         x="-1097.6721"
+         y="1645.0256"
+         id="tspan3829-0"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I love travelling and my dream is to know all the world</tspan><tspan
+         sodipodi:role="line"
+         x="-1097.6721"
+         y="1675.0256"
+         id="tspan3909-7"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Why do not you know my personal world?</tspan><tspan
+         sodipodi:role="line"
+         x="-1097.6721"
+         y="1713.5989"
+         id="tspan3831-3" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#80d8ff;fill-opacity:1"
+       id="path3841-2"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z"
+       transform="translate(-1186.5262,1210.2165)" />
+    <path
+       transform="translate(-1019.6045,1210.4199)"
+       sodipodi:type="arc"
+       style="fill:#80deea;fill-opacity:0.98297867"
+       id="path3841-4-4"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <path
+       transform="translate(-854.47845,1210.8513)"
+       sodipodi:type="arc"
+       style="fill:#a7ffeb;fill-opacity:1"
+       id="path3841-3-1"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
+    <rect
+       style="fill:url(#linearGradient5957-0);fill-opacity:1;stroke:#9d9d9d;stroke-width:1.04799998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.048, 12.576;stroke-dashoffset:0"
+       id="rect5949-1"
+       width="341.24454"
+       height="5.853899"
+       x="-863.77271"
+       y="1474.5361" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0"
+       id="rect2985-73-2"
+       width="1054.5142"
+       height="140.82541"
+       x="283.66537"
+       y="1245.4836" />
+    <rect
+       style="fill:#000000;fill-opacity:0"
+       id="rect2985-7-5-4"
+       width="1054.5142"
+       height="130.76645"
+       x="281.15073"
+       y="1242.1306" />
+    <rect
+       style="fill:#a0a0a0;fill-opacity:0.52765958"
+       id="rect3789-6-5"
+       width="1050.8939"
+       height="117.35452"
+       x="283.66537"
+       y="1242.1306" />
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1"
+       id="rect3791-5-1"
+       width="1051.1611"
+       height="110.64854"
+       x="281.98898"
+       y="1240.4541" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3780-6-2);fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="289.15829"
+       y="1309.4023"
+       id="text3793-25-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/textHeader.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3795-07-9"
+         x="289.15829"
+         y="1309.4023"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:url(#linearGradient3780-6-2);fill-opacity:1;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Leticia Trinidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:49.19138718px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="1481.2461"
+       y="1047.3292"
+       id="text3813-5-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79468299,1.2583634)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3815-4-2"
+         x="1481.2461"
+         y="1047.3292"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;stroke:#9d9d9d;stroke-width:1.15472579;stroke-opacity:1;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="662.55292"
+       y="1485.2222"
+       id="text3819-0-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-72-8"
+         x="662.55292"
+         y="1485.2222"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Who is ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="382.57858"
+       y="1595.8707"
+       id="text3823-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825-0-1"
+         x="382.57858"
+         y="1595.8707"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I am a spanish telecommunication engineer. </tspan><tspan
+         sodipodi:role="line"
+         x="382.57858"
+         y="1625.8707"
+         id="tspan3827-3-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I am looking for a job as software developer, specially as frontend developer.</tspan><tspan
+         sodipodi:role="line"
+         x="382.57858"
+         y="1655.8707"
+         id="tspan3829-0-1"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">I love travelling and my dream is to know all the world</tspan><tspan
+         sodipodi:role="line"
+         x="382.57858"
+         y="1685.8707"
+         id="tspan3909-7-4"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:TlwgTypewriter;-inkscape-font-specification:TlwgTypewriter Medium">Why do not you know my personal world?</tspan><tspan
+         sodipodi:role="line"
+         x="382.57858"
+         y="1715.8707"
+         id="tspan3831-3-0" /></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#80d8ff;fill-opacity:1"
+       id="path3841-2-7"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z"
+       transform="translate(293.72452,1238.2078)" />
+    <path
+       transform="translate(460.64623,1238.4112)"
+       sodipodi:type="arc"
+       style="fill:#80deea;fill-opacity:0.98297867"
+       id="path3841-4-4-5"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z" />
+    <path
+       transform="translate(625.77228,1238.8426)"
+       sodipodi:type="arc"
+       style="fill:#a7ffeb;fill-opacity:1"
+       id="path3841-3-1-0"
+       sodipodi:cx="322.44501"
+       sodipodi:cy="619.62122"
+       sodipodi:rx="56.902061"
+       sodipodi:ry="58.087521"
+       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z" />
+    <rect
+       style="fill:url(#linearGradient5957-0-2);fill-opacity:1;stroke:#9d9d9d;stroke-width:1.04799998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.048, 12.576;stroke-dashoffset:0"
+       id="rect5949-1-8"
+       width="341.24454"
+       height="5.853899"
+       x="616.47803"
+       y="1502.5275" />
   </g>
 </svg>

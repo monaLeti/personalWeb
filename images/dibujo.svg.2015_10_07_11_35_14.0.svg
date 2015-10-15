@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dibujo.svg">
+   sodipodi:docname="dibujo.svg.2015_10_07_11_35_14.0.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59648324"
-     inkscape:cx="497.3817"
-     inkscape:cy="366.31343"
+     inkscape:zoom="0.50827465"
+     inkscape:cx="625.98927"
+     inkscape:cy="223.25085"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,12 +138,15 @@
        x="23.470905"
        y="386.79443"
        id="text3793"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/textHeader2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3795"
          x="23.470905"
          y="386.79443"
-         style="fill-opacity:1.0;fill:url(#linearGradient3803)">Leticia Trinidad</tspan></text>
+         style="fill-opacity:1;fill:#000000;-inkscape-font-specification:Archistico Bold Italic;font-family:Archistico;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal">Leticia Trinidad</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:42.60005951000000124px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:url(#linearGradient3839);font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
@@ -151,23 +154,30 @@
        y="264.12408"
        id="text3813"
        sodipodi:linespacing="125%"
-       transform="scale(0.6882006,1.4530647)"><tspan
+       transform="scale(0.6882006,1.4530647)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/contactText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3815"
          x="1355.8925"
          y="264.12408"
-         style="stroke:url(#linearGradient3839)">Contact</tspan></text>
+         style="stroke:url(#linearGradient3839);-inkscape-font-specification:Archistico Bold Italic;font-family:Archistico;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal">Contact</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
        x="380.56393"
        y="551.09076"
        id="text3819"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3821"
          x="380.56393"
-         y="551.09076">How is ?</tspan></text>
+         y="551.09076"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Archistico;-inkscape-font-specification:Archistico Bold Italic">Who is ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
@@ -203,7 +213,7 @@
        sodipodi:cy="619.62122"
        sodipodi:rx="56.902061"
        sodipodi:ry="58.087521"
-       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z"
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z"
        transform="translate(11.735452,304.07647)" />
     <path
        transform="translate(178.65719,304.27987)"
@@ -214,7 +224,7 @@
        sodipodi:cy="619.62122"
        sodipodi:rx="56.902061"
        sodipodi:ry="58.087521"
-       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z" />
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
     <path
        transform="translate(343.78329,304.71133)"
        sodipodi:type="arc"
@@ -224,6 +234,6 @@
        sodipodi:cy="619.62122"
        sodipodi:rx="56.902061"
        sodipodi:ry="58.087521"
-       d="m 379.34707,619.62122 a 56.902061,58.087521 0 1 1 -113.80412,0 56.902061,58.087521 0 1 1 113.80412,0 z" />
+       d="m 379.34707,619.62122 c 0,32.08085 -25.47592,58.08752 -56.90206,58.08752 -31.42614,0 -56.90206,-26.00667 -56.90206,-58.08752 0,-32.08086 25.47592,-58.08752 56.90206,-58.08752 31.42614,0 56.90206,26.00666 56.90206,58.08752 z" />
   </g>
 </svg>

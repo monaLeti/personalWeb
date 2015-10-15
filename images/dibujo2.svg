@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dibujo.svg">
+   sodipodi:docname="dibujo2.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -117,9 +117,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43311044"
-     inkscape:cx="957.88129"
-     inkscape:cy="133.96909"
+     inkscape:zoom="0.1845308"
+     inkscape:cx="535.00352"
+     inkscape:cy="123.78585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,17 +207,18 @@
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
-       x="380.56393"
-       y="551.09076"
+       x="119.99355"
+       y="767.59412"
        id="text3819"
        sodipodi:linespacing="125%"
-       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/who.png"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/experience.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3821"
-         x="380.56393"
-         y="551.09076">Education</tspan></text>
+         x="119.99355"
+         y="767.59412"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Archistico;-inkscape-font-specification:Archistico Bold Italic">Experience</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#80d8ff;fill-opacity:1"
@@ -278,7 +279,7 @@
        sodipodi:cy="543.68982"
        sodipodi:rx="93.467758"
        sodipodi:ry="39.591148"
-       d="m 320.81075,543.68982 a 93.467758,39.591148 0 1 1 -186.93552,0 93.467758,39.591148 0 1 1 186.93552,0 z"
+       d="m 320.81075,543.68982 c 0,21.86559 -41.84695,39.59115 -93.46776,39.59115 -51.62082,0 -93.46776,-17.72556 -93.46776,-39.59115 0,-21.86559 41.84694,-39.59115 93.46776,-39.59115 51.62081,0 93.46776,17.72556 93.46776,39.59115 z"
        transform="matrix(1.598624,0,0,2.3835279,-1229.093,-503.02473)"
        clip-path="url(#clipPath4062)" />
     <path
@@ -289,15 +290,18 @@
        sodipodi:cy="543.68982"
        sodipodi:rx="93.467758"
        sodipodi:ry="39.591148"
-       d="m 320.81075,543.68982 a 93.467758,39.591148 0 1 1 -186.93552,0 93.467758,39.591148 0 1 1 186.93552,0 z"
+       d="m 320.81075,543.68982 c 0,21.86559 -41.84695,39.59115 -93.46776,39.59115 -51.62082,0 -93.46776,-17.72556 -93.46776,-39.59115 0,-21.86559 41.84694,-39.59115 93.46776,-39.59115 51.62081,0 93.46776,17.72556 93.46776,39.59115 z"
        transform="matrix(-1.598624,0,0,-2.3835279,-638.8102,2182.0821)"
        clip-path="url(#clipPath4062-5)" />
     <path
-       style="fill:#80d8ff;fill-opacity:0.94117647;stroke:#9d9d9d;stroke-width:0.68791044;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m 70.70868,603.54547 9.61977,-3.78439 690.45518,0 13.92374,4.16261 4.04048,10.00229 0,193.85897 -3.46327,9.55282 -13.92373,4.75728 -690.62431,0 -9.61976,-3.78439 -4.46684,-8.63375 0.35819,-195.1072 z"
+       style="fill:#80d8ff;fill-opacity:0.94117647;stroke:#80d8ff;stroke-width:1.13789296;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m -522.35778,1199.4971 16.29169,-6.1141 1169.33027,0 23.58076,6.7252 6.84281,16.1597 0,313.2009 -5.86526,15.4338 -23.58075,7.6859 -1169.6167,0 -16.29169,-6.1141 -7.56488,-13.9488 0.60662,-315.2178 z"
        id="rect3020-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g4022-4-2"
        transform="matrix(0.856336,0,0,0.78345691,-1330.6857,38.044823)">
@@ -314,7 +318,10 @@
     </g>
     <g
        id="g4142"
-       transform="matrix(0.61057471,0,0,0.66945741,125.82788,288.17921)">
+       transform="matrix(0.76788596,0,0,0.89737298,-705.36733,836.79701)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="fill:#80d8ff;fill-opacity:0.94117647;stroke:#80d8ff;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:0.94117647;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect4168"

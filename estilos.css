@@ -12,16 +12,27 @@
   margin-left: auto;
   margin-right: auto;
 }
+.experText{
+  padding-top: 40px;
+  display: block;
 
-.center-block {
-  font-family: "URW Chancery L";
+}
+.experText .img-responsive{
+  margin: 0 auto;
+}
+
+.explanation {
+  font-family: 'Poiret One', cursive;
   font-style: italic;
   font-size: 30px;
   padding-top: 60px;
-  color: #bdbdbd;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+.experienced{
+  padding-top: 1%;
+
 }
 .who .img-responsive{
   margin: 0 auto;
@@ -30,4 +41,12 @@
 .third  {
   padding-top: 160px;
   margin: 0 auto;
+}
+.who.ng-hide {
+  transition:3s linear all;
+  opacity:0;
+}
+.experText.ng-show {
+  transition:3s linear all;
+  opacity:0;
 }
