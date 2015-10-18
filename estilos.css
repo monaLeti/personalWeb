@@ -42,11 +42,3 @@
   padding-top: 160px;
   margin: 0 auto;
 }
-.who.ng-hide {
-  transition:3s linear all;
-  opacity:0;
-}
-.experText.ng-show {
-  transition:3s linear all;
-  opacity:0;
-}

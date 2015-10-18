@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app>
+<html>
   <head>
     <meta charset="utf-8">
     <title>Leticia Trinidad | Software Developer</title>
@@ -17,8 +17,7 @@
           <section class="headerText col-xs-12 col-sm-9 col-md-9" >
             <img src="./images/textHeader2.png" class="img-responsive"/>
           </section>
-          <section class="contactText col-xs-12 col-sm-3 col-md-3" >
-            <!-- <a href="mailto:leticia.t.v.r@gmail.com"></a> -->
+          <section clais="contactText col-xs-12 col-sm-3 col-md-3" >
             <a href="contact.html"><img src="./images/contactText.png" class="img-responsive"/></a>
           </section>
         </section>
@@ -26,27 +25,27 @@
     </header>
     <div class="container">
       <section class="main row">
-        <section class="who col-xs-12 col-md-12" ng-show="toggle">
+        <section class="who col-xs-12 col-md-12">
           <img src="./images/who.png" class="img-responsive"/>
         </section>
-        <section class="experText col-xs-12 col-md-12" ng-hide="toggle">
+        <section class="experText col-xs-12 col-md-12">
           <img src="./images/experience.png" class="img-responsive"/>
         </section>
       </section>
       <section class="second row">
-        <section class="explanation center-block col-md-12" ng-show="toggle">
+        <section class="explanation center-block col-md-12">
           I am a spanish telecommunication engineer.<br>
           I am looking for a job as software developer, specially as frontend developer.<br>
           I love travelling and my dream is to know all the world<br>
           Why do not you know my personal world?
         </section>
-        <section class="experienced center-block col-md-12" ng-hide="toggle">
+        <section class="experienced center-block col-md-12">
           <img src="./images/bocadillo.png" class="img-responsive"/>
         </section>
       </section>
       <section class="third row">
         <section class="firstBall col-xs-4 col-md-4">
-          <img ng-init="toggle = true" ng-mouseenter = "toggle=false" ng-mouseleave="toggle=true" id ="myball" src="./images/ball1.png" class="img-responsive"/>
+          <img id ="myball" src="./images/ball1.png" class="img-responsive"/>
         </section>
         <section class="secondBall col-xs-4 col-md-4">
           <img src="./images/ball2.png" class="img-responsive"/>
@@ -57,26 +56,32 @@
       </section>
     </div>
 
-{{toggle}}
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
   <script src="./css/bootstrap.min.js"></script>
   <script type="text/javascript">
-    var firstBall = document.getElementById("myball");
-    var third = document.getElementsByClassName('third')
-    firstBall.onmouseover = function (){
-        firstBall.style.opacity="0.4";
-        for(var i=0; i<third.length; i++){
-          third[i].style.paddingTop="0";
-        }
-    }
-    firstBall.onmouseout = function (){
-      firstBall.style.opacity="1";
-      for(var i=0; i<third.length; i++){
-        third[i].style.paddingTop="160px";
-      }
-    }
-  </script>
+    
+     $(document).ready(function(){
+      $('.experText').hide();
+      $('.experienced').hide();
+      $('#myball').mouseenter(function(){
+        $('.who').hide();
+        $('.explanation').hide();
+        $('.experText').animate({
+          height: 'show'
+        }, 1000);
+        $('.experienced').animate({
+          height: 'show'
+        }, 1000);
+        $('.third').css("padding-top","0px");
+        // $('#myball').mouseleave(function(){
+        //   $('.experText').hide();
+        //   $('.experienced').hide();
+        //   $('.third').css('padding-top',"160px");
+        // });
+      });
 
-  <!-- <script type="text/javascript" src="./js/Experience.js"></script> -->
+
+     });
+  </script>
   </body>
 </html>
