@@ -6,18 +6,11 @@
 .headerText{
   padding-bottom: 15px;
 }
-.who{
+.who, .educationHeader, .experHeader, .hobbiesHeader{
   padding-top: 40px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
-.experText{
-  padding-top: 40px;
-  display: block;
-
-}
-.experText .img-responsive{
+.who .img-responsive, .educationHeader .img-responsive,.experHeader .img-responsive, .hobbiesHeader .img-responsive{
   margin: 0 auto;
 }
 
@@ -30,14 +23,23 @@
   margin-left: auto;
   margin-right: auto;
 }
-.experienced{
+.experienced, .education, .hobbies{
+  position: relative;
   padding-top: 1%;
 
 }
-.who .img-responsive{
-  margin: 0 auto;
+h2{
+  position: absolute;
+  padding-left: 20px;
 }
-
+h2 span{
+  color: white;
+  font-family: 'Poiret One', cursive;
+  font-weight: bold;
+}
+.place{
+  padding-left: 50px;
+}
 .third  {
   padding-top: 160px;
   margin: 0 auto;

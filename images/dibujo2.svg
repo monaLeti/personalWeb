@@ -109,6 +109,24 @@
          id="path4174"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4172-7">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 240.26782,821.29765 93.365331,875.70064 240.40398,927.30558 z"
+         id="path4174-4"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4172-7-5">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 240.26782,821.29765 93.365331,875.70064 240.40398,927.30558 z"
+         id="path4174-4-7"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,9 +135,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1845308"
-     inkscape:cx="535.00352"
-     inkscape:cy="123.78585"
+     inkscape:zoom="0.22237403"
+     inkscape:cx="2146.4942"
+     inkscape:cy="-634.40328"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -127,7 +145,9 @@
      inkscape:window-height="744"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -207,8 +227,8 @@
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
-       x="119.99355"
-       y="767.59412"
+       x="2196.4084"
+       y="958.38263"
        id="text3819"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/leti/www/learn/angularRoute/images/experience.png"
@@ -216,8 +236,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3821"
-         x="119.99355"
-         y="767.59412"
+         x="2196.4084"
+         y="958.38263"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Archistico;-inkscape-font-specification:Archistico Bold Italic">Experience</tspan></text>
     <path
        sodipodi:type="arc"
@@ -232,7 +252,7 @@
     <path
        transform="translate(178.65719,304.27987)"
        sodipodi:type="arc"
-       style="fill:#80deea;fill-opacity:1"
+       style="fill:#68b4bd;fill-opacity:1"
        id="path3841-4"
        sodipodi:cx="322.44501"
        sodipodi:cy="619.62122"
@@ -338,5 +358,85 @@
        id="rect3020-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#68b4bd;fill-opacity:1;stroke:#68b4bd;stroke-width:1.13789296;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 853.43238,1187.5243 16.29169,-6.1141 1169.33033,0 23.5807,6.7252 6.8428,16.1597 0,313.2009 -5.8652,15.4338 -23.5808,7.6859 -1169.6167,0 -16.29169,-6.1141 -7.56488,-13.9488 0.60662,-315.2178 z"
+       id="rect3020-2-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4142-2"
+       transform="matrix(0.76788596,0,0,0.89737298,1066.6285,824.82417)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#68b4bd;fill-opacity:1;stroke:#68b4bd;stroke-width:2.39976192;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4168-6"
+         width="144.48727"
+         height="103.67166"
+         x="94.69223"
+         y="822.46045"
+         transform="matrix(0,-0.47027886,1.3597845,0,-857.358,910.80539)"
+         clip-path="url(#clipPath4172-7)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="136.45262"
+       y="1799.5754"
+       id="text3819-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/education.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-1"
+         x="136.45262"
+         y="1799.5754"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Archistico;-inkscape-font-specification:Archistico Bold Italic">Education</tspan></text>
+    <path
+       style="fill:#a7ffeb;fill-opacity:1;stroke:#a7ffeb;stroke-width:1.13789296000000006;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 851.76631,1941.9425 16.29169,-6.1141 1169.3303,0 23.5807,6.7252 6.8428,16.1597 0,313.2009 -5.8652,15.4338 -23.5808,7.6859 -1169.61667,0 -16.29169,-6.1141 -7.56488,-13.9488 0.60662,-315.2178 z"
+       id="rect3020-2-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4142-2-5"
+       transform="matrix(0.76788596,0,0,0.89737298,1500.5961,1576.0626)"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/bocadillo2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#a7ffeb;fill-opacity:1;stroke:#a7ffeb;stroke-width:2.39976192;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect4168-6-0"
+         width="144.48727"
+         height="103.67166"
+         x="94.69223"
+         y="822.46045"
+         transform="matrix(0,-0.47027886,1.3597845,0,-857.358,910.80539)"
+         clip-path="url(#clipPath4172-7-5)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="3089.4507"
+       y="1842.7501"
+       id="text3819-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/leti/www/learn/angularRoute/images/education.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3821-1-7"
+         x="3089.4507"
+         y="1842.7501"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Archistico;-inkscape-font-specification:Archistico Bold Italic">H0bbies</tspan></text>
   </g>
 </svg>
